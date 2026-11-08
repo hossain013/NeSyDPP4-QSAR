@@ -60,19 +60,3 @@ Run the notebooks in order, starting with `1_` (data collection / features), the
 - **Code:** this repository — https://github.com/hossain013/NeSyDPP4-QSAR
 
 This is the dataset link given in the Data Availability Statement of the published article.
-
----
-
-## Publication
-
-Hossain, D., Saghapour, E., & Chen, J. Y. (2025). **NeSyDPP-4: discovering DPP-4 inhibitors for diabetes treatment with a neuro-symbolic AI approach.** *Frontiers in Bioinformatics*, 5, 1603133. https://doi.org/10.3389/fbinf.2025.1603133
-
-- Published 21 July 2025; accepted 13 May 2025. Open access (CC BY).
-- Preprint: Hossain et al., bioRxiv, 5 April 2025, doi:10.1101/2025.03.31.646336.
-- PMC: PMC12319772 · PMID: 40761758
-
-If you use this code or data, please cite the Frontiers article above.
-
----
-
-*Delower Hossain¹², Ehsan Saghapour²³, Jake Y. Chen¹²³\* — ¹ Department of Computer Science, University of Alabama at Birmingham; ² System Pharmacology and AI Research Center (SPARC), UAB; ³ Department of Biomedical Informatics and Data Science, School of Medicine, UAB. Correspondence: Jake Y. Chen (jakechen@uab.edu). Funding: partly supported by NIH grant R21DK129968 and research startup funding to Jake Chen.*
